@@ -141,6 +141,10 @@ body {
 
 @media (max-width: 650px) {
     
+ body {
+     background-color: white;
+ }
+
     .instagram-wrapper {
         width: 90%;
     }
@@ -154,11 +158,11 @@ body {
     }
 
     .group {
-        background-color: maroon;
+        background-color: white;
         border: 1px solid transparent;
     }
 
     .link-blue {
-        color: white;
+        color: rgb(184, 1, 1);
     }
 }
